@@ -1,1 +1,1 @@
-# tic-tac-toe Project Just for prectice
+# tic-tac-toe Project Just for practice
